@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.Main-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 15%;
+  width: 60%;
+}
+
+.Main-box button{
+  background-color: #0079FE;
+  color: white;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Main-box input{
+  height: 30px;
+  width: 40%;
+  border-radius: 2px;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.head{
+  margin: 10px;
+
+}
